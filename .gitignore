@@ -25,3 +25,4 @@ cse-ai-env/
 # Local model files
 *.gguf
 *.safetensors
+src/local_ai_assistant/app_backup.py
