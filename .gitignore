@@ -26,3 +26,4 @@ cse-ai-env/
 *.gguf
 *.safetensors
 src/local_ai_assistant/app_backup.py
+src/local_ai_assistant/*_backup.py
